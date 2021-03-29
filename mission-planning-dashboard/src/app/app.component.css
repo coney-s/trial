@@ -1,4 +1,17 @@
 .box {
     display: flex;
     padding: 10px;
+    color: #666a86;
+    font-weight: bold;
+    flex-wrap: wrap;
+    gap: 250px;
+    justify-content: center;
+}
+
+
+
+h3 {
+
+    color: #333333;
+    
 }
